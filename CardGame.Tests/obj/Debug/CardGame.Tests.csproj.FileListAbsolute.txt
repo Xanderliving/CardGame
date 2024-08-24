@@ -1,0 +1,17 @@
+D:\CardGame\CardGame.Tests\obj\Debug\CardGame.Tests.csproj.AssemblyReference.cache
+D:\CardGame\CardGame.Tests\obj\Debug\CardGame.Tests.csproj.CoreCompileInputs.cache
+D:\CardGame\CardGame.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CardGame\CardGame.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CardGame\CardGame.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CardGame\CardGame.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\CardGame\CardGame.Tests\bin\Debug\CardGame.Tests.dll
+D:\CardGame\CardGame.Tests\bin\Debug\CardGame.Tests.pdb
+D:\CardGame\CardGame.Tests\bin\Debug\CardGame.backend.dll
+D:\CardGame\CardGame.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CardGame\CardGame.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CardGame\CardGame.Tests\bin\Debug\CardGame.backend.pdb
+D:\CardGame\CardGame.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CardGame\CardGame.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CardGame\CardGame.Tests\obj\Debug\CardGame.8637C12C.Up2Date
+D:\CardGame\CardGame.Tests\obj\Debug\CardGame.Tests.dll
+D:\CardGame\CardGame.Tests\obj\Debug\CardGame.Tests.pdb

@@ -1,0 +1,10 @@
+D:\CardGame\CardGame\bin\Debug\CardGame.exe.config
+D:\CardGame\CardGame\bin\Debug\CardGame.exe
+D:\CardGame\CardGame\bin\Debug\CardGame.pdb
+D:\CardGame\CardGame\bin\Debug\CardGame.backend.dll
+D:\CardGame\CardGame\bin\Debug\CardGame.backend.pdb
+D:\CardGame\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+D:\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+D:\CardGame\CardGame\obj\Debug\CardGame.csproj.Up2Date
+D:\CardGame\CardGame\obj\Debug\CardGame.exe
+D:\CardGame\CardGame\obj\Debug\CardGame.pdb

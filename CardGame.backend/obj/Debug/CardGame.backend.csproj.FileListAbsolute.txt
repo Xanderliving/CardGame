@@ -1,0 +1,6 @@
+D:\CardGame\CardGame.backend\bin\Debug\CardGame.backend.dll
+D:\CardGame\CardGame.backend\bin\Debug\CardGame.backend.pdb
+D:\CardGame\CardGame.backend\obj\Debug\CardGame.backend.csproj.AssemblyReference.cache
+D:\CardGame\CardGame.backend\obj\Debug\CardGame.backend.csproj.CoreCompileInputs.cache
+D:\CardGame\CardGame.backend\obj\Debug\CardGame.backend.dll
+D:\CardGame\CardGame.backend\obj\Debug\CardGame.backend.pdb
