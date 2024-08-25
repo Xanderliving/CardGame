@@ -8,3 +8,13 @@ D:\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
 D:\CardGame\CardGame\obj\Debug\CardGame.csproj.Up2Date
 D:\CardGame\CardGame\obj\Debug\CardGame.exe
 D:\CardGame\CardGame\obj\Debug\CardGame.pdb
+D:\Code\CardGame\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+D:\Code\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+D:\Code\CardGame\CardGame\obj\Debug\CardGame.exe
+D:\Code\CardGame\CardGame\obj\Debug\CardGame.pdb
+D:\Code\CardGame\CardGame\bin\Debug\CardGame.exe.config
+D:\Code\CardGame\CardGame\bin\Debug\CardGame.exe
+D:\Code\CardGame\CardGame\bin\Debug\CardGame.pdb
+D:\Code\CardGame\CardGame\bin\Debug\CardGame.backend.dll
+D:\Code\CardGame\CardGame\bin\Debug\CardGame.backend.pdb
+D:\Code\CardGame\CardGame\obj\Debug\CardGame.csproj.Up2Date

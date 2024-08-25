@@ -4,3 +4,9 @@ D:\CardGame\CardGame.backend\obj\Debug\CardGame.backend.csproj.AssemblyReference
 D:\CardGame\CardGame.backend\obj\Debug\CardGame.backend.csproj.CoreCompileInputs.cache
 D:\CardGame\CardGame.backend\obj\Debug\CardGame.backend.dll
 D:\CardGame\CardGame.backend\obj\Debug\CardGame.backend.pdb
+D:\Code\CardGame\CardGame.backend\bin\Debug\CardGame.backend.dll
+D:\Code\CardGame\CardGame.backend\bin\Debug\CardGame.backend.pdb
+D:\Code\CardGame\CardGame.backend\obj\Debug\CardGame.Backend.csproj.AssemblyReference.cache
+D:\Code\CardGame\CardGame.backend\obj\Debug\CardGame.Backend.csproj.CoreCompileInputs.cache
+D:\Code\CardGame\CardGame.backend\obj\Debug\CardGame.backend.dll
+D:\Code\CardGame\CardGame.backend\obj\Debug\CardGame.backend.pdb

@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CardGame\\",
+  "WorkspaceRootPath": "D:\\Code\\CardGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B53FDB5-BD24-4914-A8C6-A5F742AA4C23}|CardGame\\CardGame.csproj|D:\\CardGame\\cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B53FDB5-BD24-4914-A8C6-A5F742AA4C23}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E374252E-837F-416D-9630-7F15602B315E}|CardGame.backend\\CardGame.backend.csproj|d:\\cardgame\\cardgame.backend\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E374252E-837F-416D-9630-7F15602B315E}|CardGame.backend\\CardGame.backend.csproj|solutionrelative:cardgame.backend\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{936165B1-F343-4BCC-B8C1-9F6051AFDF93}|CardGame.Tests\\CardGame.Tests.csproj|D:\\CardGame\\cardgame.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{936165B1-F343-4BCC-B8C1-9F6051AFDF93}|CardGame.Tests\\CardGame.Tests.csproj|D:\\Code\\CardGame\\cardgame.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{936165B1-F343-4BCC-B8C1-9F6051AFDF93}|CardGame.Tests\\CardGame.Tests.csproj|solutionrelative:cardgame.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374252E-837F-416D-9630-7F15602B315E}|CardGame.backend\\CardGame.Backend.csproj|d:\\code\\cardgame\\cardgame.backend\\inputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374252E-837F-416D-9630-7F15602B315E}|CardGame.backend\\CardGame.Backend.csproj|solutionrelative:cardgame.backend\\inputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B53FDB5-BD24-4914-A8C6-A5F742AA4C23}|CardGame\\CardGame.csproj|D:\\Code\\CardGame\\cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B53FDB5-BD24-4914-A8C6-A5F742AA4C23}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\CardGame\\CardGame.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "CardGame.Tests\\UnitTest1.cs",
-              "ToolTip": "D:\\CardGame\\CardGame.Tests\\UnitTest1.cs*",
-              "RelativeToolTip": "CardGame.Tests\\UnitTest1.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T21:38:42.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\CardGame\\CardGame.backend\\Calculator.cs",
-              "RelativeDocumentMoniker": "CardGame.backend\\Calculator.cs",
-              "ToolTip": "D:\\CardGame\\CardGame.backend\\Calculator.cs",
-              "RelativeToolTip": "CardGame.backend\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Title": "Inputs.cs",
+              "DocumentMoniker": "D:\\Code\\CardGame\\CardGame.backend\\Inputs.cs",
+              "RelativeDocumentMoniker": "CardGame.backend\\Inputs.cs",
+              "ToolTip": "D:\\Code\\CardGame\\CardGame.backend\\Inputs.cs",
+              "RelativeToolTip": "CardGame.backend\\Inputs.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAYwIAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T21:33:56.226Z",
+              "WhenOpened": "2024-08-25T12:14:57.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Code\\CardGame\\CardGame.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CardGame.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\Code\\CardGame\\CardGame.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CardGame.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAqwJgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T22:11:11.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CardGame\\CardGame\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\CardGame\\CardGame\\Program.cs",
               "RelativeDocumentMoniker": "CardGame\\Program.cs",
-              "ToolTip": "D:\\CardGame\\CardGame\\Program.cs*",
-              "RelativeToolTip": "CardGame\\Program.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\Code\\CardGame\\CardGame\\Program.cs",
+              "RelativeToolTip": "CardGame\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T21:31:53.28Z",
               "EditorCaption": ""
